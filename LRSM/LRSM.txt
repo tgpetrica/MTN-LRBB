@@ -1,0 +1,3 @@
+# LRSM, Satu Mare (Romania)
+# WMO index: 15010
+# Latitude 47-43-17N. Longitude 022-53-14E. Altitude 124 m.

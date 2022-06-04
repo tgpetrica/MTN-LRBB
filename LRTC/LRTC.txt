@@ -1,0 +1,3 @@
+# LRTC, Tulcea (Romania)
+# WMO index: 15335
+# Latitude 45-11N. Longitude 028-49E. Altitude 4 m.

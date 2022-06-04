@@ -1,0 +1,3 @@
+# LRSB, Sibiu (Romania)
+# WMO index: 15260
+# Latitude 45-47-22N. Longitude 024-05-29E. Altitude 444 m.

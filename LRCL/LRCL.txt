@@ -1,0 +1,3 @@
+# LRCL, Cluj-Napoca (Romania)
+# WMO index: 15120
+# Latitude 46-47N. Longitude 023-34E. Altitude 410 m.

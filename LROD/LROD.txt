@@ -1,0 +1,3 @@
+# LROD, Oradea (Romania)
+# WMO index: 15080
+# Latitude 47-03N. Longitude 021-56E. Altitude 135 m.

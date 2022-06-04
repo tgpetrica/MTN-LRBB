@@ -1,0 +1,3 @@
+# LRBM, Baia Mare (Romania)
+# WMO index: 15014
+# Latitude 47-39-39N. Longitude 023-28-24E. Altitude 187 m.
