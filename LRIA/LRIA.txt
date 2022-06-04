@@ -1,0 +1,3 @@
+# LRIA, Iasi (Romania)
+# WMO index: 15090
+# Latitude 47-10N. Longitude 027-38E. Altitude 102 m.
